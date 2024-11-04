@@ -1,0 +1,3 @@
+C:/Users/ASUS/Desktop/algoritmo/studia da solo/03-ordinamento/Binary-Search-dicotomica/cmake-build-debug/CMakeFiles/Binary_Search_dicotomica.dir
+C:/Users/ASUS/Desktop/algoritmo/studia da solo/03-ordinamento/Binary-Search-dicotomica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/algoritmo/studia da solo/03-ordinamento/Binary-Search-dicotomica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
