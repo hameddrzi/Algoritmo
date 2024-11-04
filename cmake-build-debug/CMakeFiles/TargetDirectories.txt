@@ -1,0 +1,3 @@
+C:/Users/ASUS/Desktop/algoritmo/studia da solo/02-correttezza/problem-3n+1/cmake-build-debug/CMakeFiles/problem_3n_1.dir
+C:/Users/ASUS/Desktop/algoritmo/studia da solo/02-correttezza/problem-3n+1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/algoritmo/studia da solo/02-correttezza/problem-3n+1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

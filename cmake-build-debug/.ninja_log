@@ -1,0 +1,15 @@
+# ninja log v5
+1	77	7524219712946863	CMakeFiles/problem_3n_1.dir/main.c.obj	b2b2ad2a2fd51720
+78	304	7524219715054142	problem_3n_1.exe	a7bdeb3310d159c2
+0	66	7524219871146128	CMakeFiles/problem_3n_1.dir/main.c.obj	b2b2ad2a2fd51720
+67	172	7524219871944722	problem_3n_1.exe	a7bdeb3310d159c2
+0	62	7524220101956569	CMakeFiles/problem_3n_1.dir/main.c.obj	b2b2ad2a2fd51720
+62	161	7524220102704748	problem_3n_1.exe	a7bdeb3310d159c2
+1	71	7524220758044200	CMakeFiles/problem_3n_1.dir/main.c.obj	b2b2ad2a2fd51720
+71	186	7524220758957368	problem_3n_1.exe	a7bdeb3310d159c2
+0	64	7524221099439597	CMakeFiles/problem_3n_1.dir/main.c.obj	b2b2ad2a2fd51720
+64	170	7524221100248140	problem_3n_1.exe	a7bdeb3310d159c2
+0	62	7524221166204617	CMakeFiles/problem_3n_1.dir/main.c.obj	b2b2ad2a2fd51720
+62	177	7524221167083297	problem_3n_1.exe	a7bdeb3310d159c2
+0	65	7524221322330025	CMakeFiles/problem_3n_1.dir/main.c.obj	b2b2ad2a2fd51720
+66	172	7524221323157961	problem_3n_1.exe	a7bdeb3310d159c2
